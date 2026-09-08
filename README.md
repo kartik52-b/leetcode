@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kartik52-b/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -12,10 +13,12 @@
 ## Array
 |  |
 | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -37,4 +40,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartik52-b/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
