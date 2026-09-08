@@ -9,10 +9,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik52-b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kartik52-b/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik52-b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
