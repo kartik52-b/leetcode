@@ -42,8 +42,13 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartik52-b/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kartik52-b/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kartik52-b/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
