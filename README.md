@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartik52-b/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/kartik52-b/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
@@ -50,5 +52,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/kartik52-b/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
