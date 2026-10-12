@@ -15,12 +15,14 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik52-b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
