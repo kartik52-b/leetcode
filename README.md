@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik52-b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0922-sort-array-by-parity-ii](https://github.com/kartik52-b/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/kartik52-b/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/kartik52-b/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/kartik52-b/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
