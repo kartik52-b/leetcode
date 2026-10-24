@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kartik52-b/leetcode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kartik52-b/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/kartik52-b/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik52-b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kartik52-b/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kartik52-b/leetcode/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/kartik52-b/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartik52-b/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/kartik52-b/leetcode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/kartik52-b/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/kartik52-b/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Floyd's Cycle Finding Algorithm
