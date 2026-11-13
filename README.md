@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kartik52-b/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kartik52-b/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
