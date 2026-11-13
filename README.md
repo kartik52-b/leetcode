@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartik52-b/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/kartik52-b/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik52-b/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kartik52-b/leetcode/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartik52-b/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/kartik52-b/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kartik52-b/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik52-b/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +76,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartik52-b/leetcode/tree/master/0011-container-with-most-water) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
