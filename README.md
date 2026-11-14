@@ -23,6 +23,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/kartik52-b/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kartik52-b/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartik52-b/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kartik52-b/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/kartik52-b/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kartik52-b/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kartik52-b/leetcode/tree/master/0175-combine-two-tables) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/kartik52-b/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
